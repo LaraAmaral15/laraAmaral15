@@ -1,10 +1,10 @@
 ### Oi, gente! 👋
 Um pouco sobre mim:
 
-- ☺ Me chamo Lara e tenho 16 anos 
-- 📕 Estou cursando o 2° EM
+- ☺ Bem vindo(a), me chamo Lara!
+- 📕 Estudante de Front-end
 - 💜 Apaixonada por desenvolvimento web
-- 💻 Almejando o mercado de trabalho, faço cursos para me aprofundar cada vez mais no mundo de web design/desenvolvimento web
+- 💻 Almejando o mercado de trabalho, faço cursos para me aprofundar cada vez mais no mundo da programação
  
 
 <div align="center">
